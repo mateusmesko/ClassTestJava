@@ -13,6 +13,6 @@ public class CalculadoraTeste {
 		calc.limpar();
 		System.out.println(calc.obterResultado());
 	}
-
+ 
 }
  
